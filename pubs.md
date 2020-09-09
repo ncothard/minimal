@@ -1,3 +1,3 @@
-# [HOME](./index.md)
+### [HOME](./index.md)
 ## PUBLICATIONS
 A page about my publications
