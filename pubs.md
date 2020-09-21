@@ -1,10 +1,9 @@
 ## PUBLICATIONS
-List of publications
 
 ### Main-Author Papers
 
 
-1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1) [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
+1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
 2. E. M. Vavagiakis, **N. F. Cothard**, J. R. Stevens, et al. "Developing AlMn films for Argonne TES fabrication", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02281-9), [arXiv:1910.10199](https://arxiv.org/abs/1910.10199)
 
@@ -14,7 +13,7 @@ List of publications
 
 5. P. A. Gallardo, **N. F. Cothard**, R. Puddu, et al. "Far Sidelobes from Baffles and Telescope Support Structures in the Atacama Cosmology Telescope", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313005), [arXiv:1808.05101](https://arxiv.org/abs/1808.05101)
 
-6. B. J. Koopman, **N. F. Cothard**, et al. "Advanced ACTPol Low-Frequency Array: Readout and Characterization of Prototype 27 and 39 GHz Transition Edge Sensors", Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1957-5) [arXiv:1711.02594](https://arxiv.org/abs/1711.02594)
+6. B. J. Koopman, **N. F. Cothard**, et al. "Advanced ACTPol Low-Frequency Array: Readout and Characterization of Prototype 27 and 39 GHz Transition Edge Sensors", Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1957-5), [arXiv:1711.02594](https://arxiv.org/abs/1711.02594)
 
 7. P. A. Gallardo, B. J. Koopman, **N. F. Cothard**, et al. "Deep Reactive Ion Etched Anti-Reflection Coatings for Sub-millimeter Silicon Optics", Applied Optics (2017), [DOI](https://doi.org/10.1364/AO.56.002796), [arXiv:1610.07655](https://arxiv.org/abs/1610.07655)
 
@@ -22,11 +21,11 @@ List of publications
 ### Collaboration Papers
 
 
-1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", **JOURNAL** (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
+1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
 
-2. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", **JOURNAL** (in review) (2020), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
+2. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", (in review) (2020), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
 
-3. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square degrees of the microwave sky from ACT 2008-2018 data combined with Planck", **JOURNAL** (in review) (2020), [arXiv:2007.07290](https://arxiv.org/abs/2007.07290)
+3. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square degrees of the microwave sky from ACT 2008-2018 data combined with Planck", (in review) (2020), [arXiv:2007.07290](https://arxiv.org/abs/2007.07290)
 
 4. P. A. Gallardo, M. D. Niemack, et al. (including **N. F. Cothard**) "Characterization of aliased noise in the Advanced ACTPol receiver", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02344-2), [arXiv:1912.02902](https://arxiv.org/abs/1912.02902)
 
@@ -40,11 +39,11 @@ List of publications
 
 9. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: Astro2020 Decadal Project Whitepaper" Astro2020 Decadal Project Whitepaper (2019), [arXiv:1907.08284](https://arxiv.org/abs/1907.08284)
 
-10. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: science goals and forecasts" Journal of Cosmology and Astroparticle Physics (2019), [DOI](https://doi.org/10.1088/1475-7516/2019/02/056) [arXiv:1808.07445](https://arxiv.org/abs/1808.07445)
+10. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: science goals and forecasts" Journal of Cosmology and Astroparticle Physics (2019), [DOI](https://doi.org/10.1088/1475-7516/2019/02/056), [arXiv:1808.07445](https://arxiv.org/abs/1808.07445)
 
 11. R. Puddu, **N. F. Cothard**, P.A. Gallardo, R. Dünner, P. Fluxá, "Sidelobe analysis for the Atacama Cosmology Telescope: a novel method for importing models in GRASP" (2019), [arXiv:1903.04689](https://arxiv.org/abs/1903.04689)
  
-12. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys" Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1920-5) [arXiv:1710.08456](https://arxiv.org/abs/1710.08456)
+12. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys" Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1920-5), [arXiv:1710.08456](https://arxiv.org/abs/1710.08456)
 
 13. P. A. Gallardo et al. (including **N. F. Cothard**) "Studies of Systematic Uncertainties for Simons Observatory: Optical Effects and Sensitivity Considerations" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2312971), [arXiv:1808.05152](https://arxiv.org/abs/1808.05152)
 
