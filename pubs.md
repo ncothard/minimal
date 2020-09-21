@@ -1,8 +1,8 @@
 ## PUBLICATIONS
 A page about my publications
 
-# Main-Author Papers
+### Main-Author Papers
 1.
 
-# Collaboration Papers
+### Collaboration Papers
 1. 
