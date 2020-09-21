@@ -2,15 +2,17 @@
 List of publications
 
 ### Main-Author Papers
+
+
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1) [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
 2. E. M. Vavagiakis, **N. F. Cothard**, J. R. Stevens, et al. "Developing AlMn films for Argonne TES fabrication", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02281-9), [arXiv:1910.10199](https://arxiv.org/abs/1910.10199)
 
 3. J. R. Stevens, **N. F. Cothard**, E. M. Vavagiakis, et al. "Characterization of Transition Edge Sensors for the Simons Observatory", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02375-9), [arXiv:1912.00860](https://arxiv.org/abs/1912.00860)
 
-4. P. A. Gallardo, **N. F. Cothard**, R. Puddu, et al. "Far Sidelobes from Baffles and Telescope Support Structures in the Atacama Cosmology Telescope", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313005), [arXiv:1808.05101](https://arxiv.org/abs/1808.05101)
+4. **N. F. Cothard** et al. "Optimizing the efficiency of Fabry-Perot interferometers with silicon-substrate mirrors", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313483), [arXiv:1807.06019](https://arxiv.org/abs/1807.06019)
 
-5. **N. F. Cothard** et al. "Optimizing the efficiency of Fabry-Perot interferometers with silicon-substrate mirrors", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313483), [arXiv:1807.06019](https://arxiv.org/abs/1807.06019)
+5. P. A. Gallardo, **N. F. Cothard**, R. Puddu, et al. "Far Sidelobes from Baffles and Telescope Support Structures in the Atacama Cosmology Telescope", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313005), [arXiv:1808.05101](https://arxiv.org/abs/1808.05101)
 
 6. B. J. Koopman, **N. F. Cothard**, et al. "Advanced ACTPol Low-Frequency Array: Readout and Characterization of Prototype 27 and 39 GHz Transition Edge Sensors", Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1957-5) [arXiv:1711.02594](https://arxiv.org/abs/1711.02594)
 
@@ -38,21 +40,21 @@ List of publications
 
 9. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: Astro2020 Decadal Project Whitepaper" Astro2020 Decadal Project Whitepaper (2019), [arXiv:1907.08284](https://arxiv.org/abs/1907.08284)
 
-10. R. Puddu, **N. F. Cothard**, P.A. Gallardo, R. Dünner, P. Fluxá, "Sidelobe analysis for the Atacama Cosmology Telescope: a novel method for importing models in GRASP" (2019), [arXiv:1903.04689](https://arxiv.org/abs/1903.04689)
+10. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: science goals and forecasts" Journal of Cosmology and Astroparticle Physics (2019), [DOI](https://doi.org/10.1088/1475-7516/2019/02/056) [arXiv:1808.07445](https://arxiv.org/abs/1808.07445)
+
+11. R. Puddu, **N. F. Cothard**, P.A. Gallardo, R. Dünner, P. Fluxá, "Sidelobe analysis for the Atacama Cosmology Telescope: a novel method for importing models in GRASP" (2019), [arXiv:1903.04689](https://arxiv.org/abs/1903.04689)
  
-11. The Simons Observatory Collaboration (including **N. F. Cothard**) "The Simons Observatory: science goals and forecasts" Journal of Cosmology and Astroparticle Physics (2019), [DOI](https://doi.org/10.1088/1475-7516/2019/02/056) [arXiv:1808.07445](https://arxiv.org/abs/1808.07445)
+12. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys" Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1920-5) [arXiv:1710.08456](https://arxiv.org/abs/1710.08456)
 
-12. S. M. Simon et al. (including **N. F. Cothard**) "The Advanced ACTPol 27/39 GHz Array", Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1963-7)
+13. P. A. Gallardo et al. (including **N. F. Cothard**) "Studies of Systematic Uncertainties for Simons Observatory: Optical Effects and Sensitivity Considerations" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2312971), [arXiv:1808.05152](https://arxiv.org/abs/1808.05152)
 
-13. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys" Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1920-5) [arXiv:1710.08456](https://arxiv.org/abs/1710.08456)
-
-14. P. A. Gallardo et al. (including **N. F. Cothard**) "Studies of Systematic Uncertainties for Simons Observatory: Optical Effects and Sensitivity Considerations" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2312971), [arXiv:1808.05152](https://arxiv.org/abs/1808.05152)
+14. S. M. Simon et al. (including **N. F. Cothard**) "The Advanced ACTPol 27/39 GHz Array", Journal of Low Temperature Physics (2018), [DOI](https://doi.org/10.1007/s10909-018-1963-7)
 
 15. Y. Li et al. (including **N. F. Cothard**) "Performance of the advanced ACTPol low frequency array" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313942)
 
-16. G. J. Stacey et al. (including **N. F. Cothard**) "CCAT-prime: Science with an Ultra-widefield Submillimeter Observatory at Cerro Chajnantor" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2314031), [arXiv:1807.04354](https://arxiv.org/abs/1807.04354)
+16. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Prime-Cam: A first-light instrument for the CCAT-prime telescope" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313868), [arXiv:1807.00058](https://arxiv.org/abs/1807.00058)
 
-17. E. M. Vavagiakis et al. (including **N. F. Cothard**) "Prime-Cam: A first-light instrument for the CCAT-prime telescope" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313868), [arXiv:1807.00058](https://arxiv.org/abs/1807.00058)
+17. G. J. Stacey et al. (including **N. F. Cothard**) "CCAT-prime: Science with an Ultra-widefield Submillimeter Observatory at Cerro Chajnantor" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2314031), [arXiv:1807.04354](https://arxiv.org/abs/1807.04354)
 
 18. S. C. Parshley et al. (including **N. F. Cothard**) "CCAT-prime: a novel telescope for submillimeter astronomy" Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2314046), [arXiv:1807.06675](https://arxiv.org/abs/1807.06675)
 
