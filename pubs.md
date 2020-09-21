@@ -1,5 +1,5 @@
 ## PUBLICATIONS
-A page about my publications
+List of publications
 
 ### Main-Author Papers
 1.
