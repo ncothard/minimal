@@ -5,9 +5,9 @@
 {: reversed="reversed"}
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
-1. E. M. Vavagiakis, **N. F. Cothard**, J. R. Stevens, et al. "Developing AlMn films for Argonne TES fabrication", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02281-9), [arXiv:1910.10199](https://arxiv.org/abs/1910.10199)
-
 1. J. R. Stevens, **N. F. Cothard**, E. M. Vavagiakis, et al. "Characterization of Transition Edge Sensors for the Simons Observatory", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02375-9), [arXiv:1912.00860](https://arxiv.org/abs/1912.00860)
+
+1. E. M. Vavagiakis, **N. F. Cothard**, J. R. Stevens, et al. "Developing AlMn films for Argonne TES fabrication", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02281-9), [arXiv:1910.10199](https://arxiv.org/abs/1910.10199)
 
 1. **N. F. Cothard** et al. "Optimizing the efficiency of Fabry-Perot interferometers with silicon-substrate mirrors", Proc. SPIE (2018), [DOI](https://doi.org/10.1117/12.2313483), [arXiv:1807.06019](https://arxiv.org/abs/1807.06019)
 
