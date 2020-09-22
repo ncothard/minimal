@@ -20,7 +20,7 @@
 
 ### Collaboration Papers
 
-
+{: reversed="reversed"}
 1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
 
 1. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", (in review) (2020), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
