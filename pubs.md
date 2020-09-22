@@ -2,7 +2,7 @@
 
 ### Main-Author Papers
 
-
+{: reversed="reversed"}
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
 1. E. M. Vavagiakis, **N. F. Cothard**, J. R. Stevens, et al. "Developing AlMn films for Argonne TES fabrication", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02281-9), [arXiv:1910.10199](https://arxiv.org/abs/1910.10199)

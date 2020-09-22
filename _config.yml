@@ -7,3 +7,6 @@ description: Experimental Cosmology | Cornell University \n PhD Candidate
 github: is\_project\_page:false
 
 logo: https://github.com/ncothard/ncothard.github.io/blob/master/headshot_circle.png?raw=true
+
+# Choose Markdown version
+markdown: kramdown
