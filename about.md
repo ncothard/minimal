@@ -1,7 +1,7 @@
 ## ABOUT
 A page about me
 
-
+{{ site.baseurl }}/nfc_cv.pdf
 
 
 
