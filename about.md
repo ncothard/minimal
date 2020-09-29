@@ -5,7 +5,7 @@
 
 Welcome! I'm a PhD candidate and NASA Space Technology Research Fellow at Cornell University. I work in the [Niemack Experimental Cosmology Lab](https://www.classe.cornell.edu/~mdn49/index.html) as part of the CCAT-prime, Simons Observatory, and Advanced ACTPol collaborations.
 
-My research currently focuses on a mix of far-IR and millimeter optics, superconducting detectors, and cryogenic readout systems for telescope instrumentation.
+My research currently focuses on far-IR and millimeter optics, superconducting detectors, and cryogenic readout systems for telescope instrumentation.
 
 
 <!---
