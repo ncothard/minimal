@@ -1,7 +1,7 @@
 ## ABOUT
 A page about me
 
-[CV](./nfc_cv.pdf)
+### View my **[CV](./nfc_cv.pdf)**
 
 
 
