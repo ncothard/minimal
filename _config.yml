@@ -13,5 +13,8 @@ google_analytics: UA-179307513-1
 # Choose Markdown version
 markdown: kramdown
 
+email: nc467
+
 author:
   location: "Ithaca, NY"
+  
