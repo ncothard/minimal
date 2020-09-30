@@ -22,6 +22,14 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+	
+	{% if site.location %}
+	<p>
+	  <i class="fa fa-envelope"></i> {{site.location}}
+	</p>
+        {% endif %}
+
+	
 	{% if site.email %}
 	<p>
 	  <i class="fa fa-envelope"></i>
@@ -33,7 +41,6 @@
 	  </a>
 	</p>-->
         {% endif %}
-
 
 
 
