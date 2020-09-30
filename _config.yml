@@ -13,8 +13,7 @@ google_analytics: UA-179307513-1
 # Choose Markdown version
 markdown: kramdown
 
-email: nc467
+email: nc467@cornell.edu
 
-author:
-  location: "Ithaca, NY"
+location: "Ithaca, NY"
   
