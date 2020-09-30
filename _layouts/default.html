@@ -39,7 +39,8 @@
 	</p>-->
 	<p>
 	  <a href="mailto:{{ site.email }}">
-	    <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span itemprop="name">Email</span>
+	    <meta itemprop="email" content="{{ site.email }}" />
+	    <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> <span itemprop="name">Email</span>
 	  </a>
 	</p>
         {% endif %}
