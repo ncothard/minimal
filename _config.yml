@@ -8,5 +8,7 @@ github: is\_project\_page:false
 
 logo: https://github.com/ncothard/ncothard.github.io/blob/master/headshot_circle.png?raw=true
 
+google_analytics: UA-179307513-1
+
 # Choose Markdown version
 markdown: kramdown
