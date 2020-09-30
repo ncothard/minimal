@@ -1,6 +1,5 @@
 ## ABOUT
 
-![Toco]({{ site.url }}/20170516_152828_small.jpg)
 
 ### View my **[CV]({{ site.url }}/nfc_cv.pdf)** 
 
@@ -8,6 +7,7 @@ Welcome! I'm a PhD candidate and NASA Space Technology Research Fellow at Cornel
 
 My research currently focuses on far-IR and millimeter optics, superconducting detectors, and cryogenic readout systems for telescope instrumentation.
 
+![Toco]({{ site.url }}/20170516_152828_small.jpg)
 
 <!---
 What I like to do as an applied physicist
