@@ -13,11 +13,9 @@ google_analytics: UA-179307513-1
 # Choose Markdown version
 markdown: kramdown
 
-email: nc467@cornell.edu
-
 location: "Ithaca, NY"
-
-
+email: nc467@cornell.edu
+twitter: https://twitter.com/NickFCothard
 github:
   is_user_page:
   owner_url: https://github.com/ncothard
