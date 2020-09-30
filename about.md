@@ -2,7 +2,7 @@
 
 hello
 
-![Toco](https://github.com/ncothard/ncothard.github.io/blob/master/20170516_152828.jpg)
+![Toco](https://github.com/ncothard/ncothard.github.io/blob/master/20170516_152828_small.jpg)
 
 ### View my **[CV]({{ site.url }}/nfc_cv.pdf)** 
 
