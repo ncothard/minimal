@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Nicholas F Cothard
 
-description: PhD Student at Cornell and NASA Space Technology Research Fellow working on telescope instrumentation for cosmology and astrophysics observatories.
+description: A PhD Student at Cornell and NASA Space Technology Research Fellow working on telescope instrumentation for cosmology and astrophysics observatories.
 
 github: is\_project\_page:false
 
@@ -12,3 +12,6 @@ google_analytics: UA-179307513-1
 
 # Choose Markdown version
 markdown: kramdown
+
+author:
+	location: "Ithaca, NY"
