@@ -31,7 +31,11 @@
         {% endif %}
 
 	{% if site.email %}
-        <li class="view"><a href="mailto:{{ site.email }}">Email</a></li>
+        <li>
+	  <a href="mailto:{{ site.email }}">
+	    <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>Email
+	  </a>
+	</li>
         {% endif %}
 
         {% if site.show_downloads %}
