@@ -1,8 +1,8 @@
 ## ABOUT
 
+hello
 
-[Toco](https://github.com/ncothard/ncothard.github.io/blob/master/headshot_circle.png)
-
+[Toco](https://github.com/ncothard/ncothard.github.io/blob/master/20170516_152828.jpg)
 
 ### View my **[CV]({{ site.url }}/nfc_cv.pdf)** 
 
