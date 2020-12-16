@@ -5,6 +5,8 @@
 ### Main-Author Papers
 
 {: reversed="reversed"}
+1. **N. F. Cothard** et al. "Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2575912), [arXiv:???](https://arxiv.org/abs/???)
+
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
 1. J. R. Stevens, **N. F. Cothard**, E. M. Vavagiakis, et al. "Characterization of Transition Edge Sensors for the Simons Observatory", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02375-9), [arXiv:1912.00860](https://arxiv.org/abs/1912.00860)
@@ -26,6 +28,18 @@
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (in review) (2020), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
 
 1. J. E. Gudmundsson, P. A. Gallardo, R. Puddu, S. R. Dicker, et al. (including **N. F. Cothard**) "The Simons Observatory: Modeling Optical Systematics in the Large Aperture Telescope", Applied Optics (in review) (2020), [arXiv:2009.10138](https://arxiv.org/abs/2009.10138)
+
+1. C. J. Duell, et al. "CCAT-prime: Designs and status of the first light 280 GHz MKID array and mod-cam receiver", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562757), [arXiv:???](https://arxiv.org/abs/???)
+
+1. E. Healy, et al. "Assembly development for the Simons Observatory focal plane readout module", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2561743), [arXiv:???](https://arxiv.org/abs/???)
+
+1 J. Seibert, et al. "Development of an optical detector testbed for the Simons Observatory", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562045), [arXiv:???](https://arxiv.org/abs/???)
+
+1. K. Harrington, et al. "The integration and testing program for the Simons Observatory Large Aperture Telescope optics tubes", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562647), [arXiv:???](https://arxiv.org/abs/???)
+
+1. A. Suzuki et al. "Recent developments and optimization of commercially fabricated antenna-coupled transition edge sensor bolometer detectors for next generation cosmic microwave background polarimetry experiments", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562378), [arXiv:???](https://arxiv.org/abs/???)
+
+1. Z. Zu et al. "The Simons Observatory: the Large Aperture Telescope Receiver (LATR) integration and validation results", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2576151), [arXiv:2012.07862](http://arxiv.org/abs/2012.07862)
 
 1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
 
