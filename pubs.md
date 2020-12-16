@@ -33,7 +33,7 @@
 
 1. E. Healy, et al. (including **N. F. Cothard**) "Assembly development for the Simons Observatory focal plane readout module", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2561743), [arXiv:???](https://arxiv.org/abs/???)
 
-1 J. Seibert, et al. (including **N. F. Cothard**) "Development of an optical detector testbed for the Simons Observatory", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562045), [arXiv:???](https://arxiv.org/abs/???)
+1. J. Seibert, et al. (including **N. F. Cothard**) "Development of an optical detector testbed for the Simons Observatory", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562045), [arXiv:???](https://arxiv.org/abs/???)
 
 1. K. Harrington, et al. (including **N. F. Cothard**) "The integration and testing program for the Simons Observatory Large Aperture Telescope optics tubes", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562647), [arXiv:???](https://arxiv.org/abs/???)
 
