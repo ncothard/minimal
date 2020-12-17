@@ -5,7 +5,7 @@
 ### Main-Author Papers
 
 {: reversed="reversed"}
-1. **N. F. Cothard** et al. "Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2575912), [arXiv:???](https://arxiv.org/abs/???)
+1. **N. F. Cothard** et al. "Comparing complex impedance and bias step measurements of Simons Observatory transition edge sensors", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2575912), [arXiv:2012.08547](http://arxiv.org/abs/2012.08547)
 
 1. **N. F. Cothard** et al. "The Design of The CCAT-prime Epoch of Reionization Spectrometer Instrument", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-019-02297-1), [arXiv:1911.11687](https://arxiv.org/abs/1911.11687)
 
