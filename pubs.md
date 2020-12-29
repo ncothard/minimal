@@ -37,8 +37,6 @@
 
 1. K. Harrington, et al. (including **N. F. Cothard**) "The integration and testing program for the Simons Observatory Large Aperture Telescope optics tubes", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562647), [arXiv:???](https://arxiv.org/abs/???)
 
-<!--1. A. Suzuki et al. (including **N. F. Cothard**) "Recent developments and optimization of commercially fabricated antenna-coupled transition edge sensor bolometer detectors for next generation cosmic microwave background polarimetry experiments", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2562378), [arXiv:???](https://arxiv.org/abs/???)-->
-
 1. Z. Zu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope Receiver (LATR) integration and validation results", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2576151), [arXiv:2012.07862](http://arxiv.org/abs/2012.07862)
 
 1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
