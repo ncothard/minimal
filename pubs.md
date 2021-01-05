@@ -25,6 +25,8 @@
 ### Collaboration Papers
 
 {: reversed="reversed"}
+1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: Detection of mm-wave transient sources", (in review) (2020), [arXiv:2012.14347](https://arxiv.org/abs/2012.14347)
+
 1. E. M. Vavagiakis et al. (including **N. F. Cothard**) "The Simons Observatory: Magnetic Sensitivity Measurements of Microwave SQUID Multiplexers", ASC IEEE Proceedings (in review) (2020), [arXiv:2012.04532](https://arxiv.org/abs/2012.04532)
 
 1. J. E. Gudmundsson, P. A. Gallardo, R. Puddu, S. R. Dicker, et al. (including **N. F. Cothard**) "The Simons Observatory: Modeling Optical Systematics in the Large Aperture Telescope", Applied Optics (in review) (2020), [arXiv:2009.10138](https://arxiv.org/abs/2009.10138)
