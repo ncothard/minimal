@@ -41,11 +41,11 @@
 
 1. Z. Zu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope Receiver (LATR) integration and validation results", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2576151), [arXiv:2012.07862](http://arxiv.org/abs/2012.07862)
 
-1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (in review) (2020), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
+1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/046), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
 
-1. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", JCAP (in review) (2020), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
+1. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/047), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
 
-1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square degrees of the microwave sky from ACT 2008-2018 data combined with Planck", JCAP (in review) (2020), [arXiv:2007.07290](https://arxiv.org/abs/2007.07290)
+1. S. Naess et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square degrees of the microwave sky from ACT 2008-2018 data combined with Planck", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/046), [arXiv:2007.07290](https://arxiv.org/abs/2007.07290)
 
 1. P. A. Gallardo, M. D. Niemack, et al. (including **N. F. Cothard**) "Characterization of aliased noise in the Advanced ACTPol receiver", Journal of Low Temperature Physics (2020), [DOI](https://doi.org/10.1007/s10909-020-02344-2), [arXiv:1912.02902](https://arxiv.org/abs/1912.02902)
 
