@@ -41,7 +41,7 @@
 
 1. Z. Zu et al. (including **N. F. Cothard**) "The Simons Observatory: the Large Aperture Telescope Receiver (LATR) integration and validation results", Proc. SPIE (2020), [DOI](https://doi.org/10.1117/12.2576151), [arXiv:2012.07862](http://arxiv.org/abs/2012.07862)
 
-1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/046), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
+1. S. Choi et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/045), [arXiv:2007.07289](https://arxiv.org/abs/2007.07289)
 
 1. S. Aiola et al. (including **N. F. Cothard**) "The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters", JCAP (2020), [DOI](https://doi.org/10.1088/1475-7516/2020/12/047), [arXiv:2007.07288](https://arxiv.org/abs/2007.07288)
 
